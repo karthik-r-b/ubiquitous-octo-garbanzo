@@ -1,3 +1,7 @@
+/*
+Time complexity-O(n^2)
+Space complexity-O(n)
+*/
 const threeSumClosest=(A,B)=>{
 let n = A.length;
 // Test case if the array length is less than 3
